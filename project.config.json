@@ -1,0 +1,35 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "JimaoMallTaro",
+  "description": "集贸商城小程序端",
+  "appid": "wx49bbed40f8cba3d0",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "condition": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.4.2",
+  "srcMiniprogramRoot": "dist/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "resolutions": {
+    "@types/sass": "1.43.1"
+  },
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
