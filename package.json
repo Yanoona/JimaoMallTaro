@@ -54,6 +54,7 @@
     "@tarojs/shared": "3.6.27",
     "@tarojs/taro": "3.6.27",
     "@types/sass": "^1.43.1",
+    "taro-ui": "^3.3.0",
     "vue": "^3.2.40",
     "vuex": "^4.1.0"
   },

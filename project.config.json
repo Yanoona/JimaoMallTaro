@@ -8,14 +8,15 @@
     "es6": false,
     "enhance": false,
     "compileHotReLoad": false,
-    "postcss": false,
+    "postcss": true,
     "minified": false,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
     },
-    "condition": false
+    "condition": true,
+    "compileWorklet": true
   },
   "compileType": "miniprogram",
   "libVersion": "3.4.2",
@@ -31,5 +32,6 @@
   "editorSetting": {
     "tabIndent": "insertSpaces",
     "tabSize": 2
-  }
+  },
+  "simulatorPluginLibVersion": {}
 }
